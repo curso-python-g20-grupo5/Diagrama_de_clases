@@ -32,3 +32,13 @@ Para ejecutar el proyecto, simplemente corre el archivo `main.py`:
 
 ```bash
 python main.py
+
+## Autores y Autoras
+
+- [Esteban Hernández](https://github.com/stivhc)
+- [Valery Maragaño](https://github.com/Valyxp)
+- [Rosa Rubio](https://github.com/PaulinaRubioP)
+- [Marco Alvarado](https://github.com/7pixel-cl)
+
+
+⌨️ con ❤️ por el Grupo 5 - G20 😊
