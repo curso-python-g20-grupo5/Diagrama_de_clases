@@ -24,7 +24,7 @@ El objetivo de este proyecto es crear un sistema que permita a los usuarios resp
 
 ## Diagrama de Clases
 
-El diagrama de clases completo del sistema está disponible en el archivo `diagrama_clases_final.md`.
+El diagrama de clases completo del sistema está disponible en el archivo `diagrama_clases.md`.
 
 ## Ejecución
 
