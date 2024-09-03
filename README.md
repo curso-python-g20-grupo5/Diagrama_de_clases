@@ -32,6 +32,7 @@ Para ejecutar el proyecto, simplemente corre el archivo `main.py`:
 
 ```bash
 python main.py
+```
 
 
 ## Autores y Autoras
